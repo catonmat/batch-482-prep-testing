@@ -7,4 +7,5 @@ class User < ApplicationRecord
   def full_name
     "#{first_name} #{last_name}"
   end
+  this is a bug
 end
